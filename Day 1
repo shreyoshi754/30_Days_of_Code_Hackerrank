@@ -8,9 +8,9 @@ a=int(input())
 b=float(input())
 c=input()
 # Print the sum of both integer variables on a new line.
-printf(a+i)
+print(a+i)
 # Print the sum of the double variables on a new line.
-printf((d+b))
+print((d+b))
 # Concatenate and print the String variables on a new line
 # The 's' variable above should be printed first.
-printf(s+""+c)
+print(s+""+c)
